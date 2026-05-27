@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionrecrypt",
+        "uuid": 2987712,
+        "checksum": "c1xdu"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
